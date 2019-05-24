@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VectorAnimation</string>
+    <string name="title_activity_animation">AnimationActivity</string>
+    <string name="title_home">Frames</string>
+    <string name="title_dashboard">Animated</string>
+    <string name="title_notifications">Path</string>
+</resources>
